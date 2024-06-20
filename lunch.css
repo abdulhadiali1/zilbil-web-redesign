@@ -1,0 +1,105 @@
+
+body {
+    overflow-x: hidden; /* Hide scrollbars */
+  }
+@font-face {
+    font-family:medium ;
+    src: url(fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: poppins ;
+    src: url(  fonts/Poppins-Bold.ttf  );
+}
+
+@font-face {
+    font-family: regular ;
+    src: url( fonts/Poppins-Regular.ttf);
+}
+
+.a{color: white; position: relative; left: 37%; font-family: medium;  display: inline-block;  }
+
+.alert{background-color: black;}
+
+.nav-link{  color: rgb(0, 0, 0); position: relative; top: 10px; }
+
+.nav-link:hover{ color: black;   }
+
+.a1{color: white; position: relative; left: 37%; top: 6px;  font-family: poppins;  display: inline-block;
+font-size: 50px;  }
+
+.alert1{background-color: black;  position:relative ; top: 40px; 
+    height: 100px; }
+
+.container{  position: relative; top: 100px; display: flex; }
+
+
+
+.polo{ font-family: medium; position: relative;left: 2px;  display: inline-block;   }
+
+.del{  font-family: medium; position: relative; bottom: 10px; display: inline-block;   }
+
+.price{  font-family: medium; position: relative; bottom: 33.70px; left: 5%;    display: inline-block;       }
+
+
+
+.container{  position: relative; top: 100px; justify-content: space-between; }
+
+.main{ display: flex;   justify-content: space-evenly; position: relative; top: 120px;  }
+
+
+.polo1{  position: relative; right: 32px; font-family: medium;  }
+
+.polo2{ position: relative; right: 27px;  font-family: medium;  }
+
+.polo3{  position: relative; right: 21px; font-family: medium;   }
+
+.polo4{  position: relative; right: 16px; font-family: medium;  }
+
+
+.price{  display: flex;   justify-content: space-evenly; position: relative; top: 120px;     }
+
+.del1{  position: relative; right: 200px; font-family: medium;  }
+
+.del2{ position: relative; right: 170px;  font-family: medium;  }
+
+.del3{  position: relative; right: 137px; font-family: medium;   }
+
+.del4{  position: relative; right: 100px; font-family: medium;  }
+
+
+
+
+
+
+.price1{  position: relative; left: 11%; top: 94px;     }
+
+.price2{  position: relative;   left: 34%; top: 70px;      }
+
+.price3{    position: relative;  left: 57%; top: 46px;     }
+
+.price4{    position: relative;  left: 81%; top: 22px;    }
+
+
+
+.b1{ display: inline-block;   border: 1px solid black;  width: 260px; height: 510px; border-radius: 20px;  
+position: relative; left:5%; bottom: 480px;   }
+
+.b2{ display: inline-block;   border: 1px solid black;  width: 260px; height: 510px; border-radius: 20px;  
+ position: relative; left:7.50%; bottom: 480px;   }
+
+ .b3{ display: inline-block;   border: 1px solid black;  width: 260px; height: 510px; border-radius: 20px;  
+  position: relative; left:9.50%; bottom: 480px;   }
+
+ .b4{ display: inline-block;   border: 1px solid black;  width: 260px; height: 510px; border-radius: 20px;  
+ position: relative; left:11.50%; bottom: 480px;   }
+
+
+
+ .icn{  display: inline; position: relative; right: -7%; bottom: 1170px;   }
+
+
+.icn1{  display: inline; position: relative; right: 80%; bottom: 1170px;   }
+
+
+.fotar{   position: relative; top: 850px; left: 80%;     }
